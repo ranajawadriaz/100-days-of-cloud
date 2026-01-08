@@ -1,0 +1,3 @@
+<pre>
+The Nautilius company needed to transfer some resources to aws but before the whole transfer thing, they decided to transfer it by breaking into bits but before that I mean to access the aws ec2 instances safely, they had to create the key pair for the instance. They created the rsa ssh key pair to securely access the aws ec2 instance at US-east-1 server.
+</pre>
